@@ -1,0 +1,1 @@
+A fictional project aimed to showcase my Data Visualization Skills. All data in this project is fake but showcases my storytelling with data. This project is about convincing the busines people at Scandinavian Airlines to start routes to Austin, Tx. 
